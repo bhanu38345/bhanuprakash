@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo;
+package com.movierating.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
